@@ -1,0 +1,1 @@
+const btn=document.getElementById('action');const status=document.getElementById('status');btn.addEventListener('click',()=>{status.textContent='Funcionando. HTML, CSS e JavaScript carregados corretamente.';});
